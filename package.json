@@ -1,8 +1,8 @@
 {
-  "name": "flowgen",
+  "name": "@pladaria/flowgen",
   "description": "Generate flowtype definition files from TypeScript",
   "typings": "index.d.ts",
-  "version": "1.16.0",
+  "version": "1.16.1",
   "bin": {
     "flowgen": "./lib/cli/index.js"
   },
@@ -13,7 +13,7 @@
       "!**/*.d.ts"
     ]
   },
-  "repository": {	
+  "repository": {
     "type": "git",
     "url": "https://github.com/joarwilk/flowgen.git"
   },
